@@ -24,7 +24,7 @@
 
 ## My Activities
 
-1. 2022 LG CNS AI genius Academy 
+1. 2022 LG CNS AI Genius Academy 
 2. KDMHS AI Club “FREGIC” 12th
 3. Learning Express.js
 4. Learning Typescript
