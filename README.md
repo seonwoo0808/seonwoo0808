@@ -12,7 +12,7 @@
 4. ⌨️ Language : 
     1. Python
     2. Java
-    3. JavaScript
+    3. JavaScript(TS)
     4. Go
     5. C
     6. HTML, CSS (Is it programming lang? 😆) 
