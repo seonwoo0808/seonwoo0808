@@ -21,11 +21,13 @@
 
 1. KDMHS 21th Web Programming
 2. RTG BackEnd Developer
+3. KDMHS DIN Developer
 
 ## My Activities
 
 1. 2022 LG CNS AI Genius Academy 
 2. KDMHS AI Club “FREGIC” 12th
-3. Learning Express.js
-4. Learning Typescript
+3. KDMHS App Startup Club "IMPLUDE"
+4. Learning Express.js
+5. Learning Typescript
 
