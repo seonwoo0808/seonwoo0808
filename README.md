@@ -18,7 +18,7 @@
     6. HTML, CSS (Is it programming lang? 😆)
 
 
-    ![PENTAGON's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoo0808&show_icons=true&theme=algoria)
+    ![PENTAGON's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoo0808&show_icons=true&theme=algolia)
 
 
 ## My Career
