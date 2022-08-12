@@ -24,7 +24,7 @@
 ## My Career
 
 1. KDMHS 21th Web Programming
-2. RTG BackEnd Developer
+2. RTG BackEnd & HyperVisor Developer
 3. KDMHS DIN Developer
 
 ## My Activities
@@ -32,6 +32,5 @@
 1. 2022 LG CNS AI Genius Academy 
 2. KDMHS AI Club “FREGIC” 12th
 3. KDMHS App Startup Club "IMPLUDE"
-4. Learning Express.js
-5. Learning Typescript
+4. Learning Docker
 
