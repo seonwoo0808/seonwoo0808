@@ -25,7 +25,7 @@
 
 1. KDMHS 21th Web Programming
 2. RTG BackEnd & HyperVisor Developer
-3. KDMHS DIN Developer
+3. KDMHS DIN(DimigoIn IntraNet) Developer
 
 ## My Activities
 
