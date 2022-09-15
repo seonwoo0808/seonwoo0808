@@ -1,4 +1,4 @@
-# Hello, DPRK!
+# Hello, Universe!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonwoo0808&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -34,5 +34,6 @@
 1. 2022 LG CNS AI Genius Academy 
 2. KDMHS AI Club “FREGIC” 12th
 3. KDMHS App Startup Club "IMPLUDE"
-4. Learning Docker
+4. 12th SK Planet STAC+ presidence 
+5. Learning Docker
 
