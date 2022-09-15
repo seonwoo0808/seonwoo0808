@@ -8,7 +8,9 @@
 2. 🇰🇷 Country : South Korea
 3. 🔙 Development Position : 
     1. BackEnd
-    2. AI
+    2. ML/DL
+    3. Minecraft Plugin
+    4. DevOps
 4. ⌨️ Language : 
     1. Python
     2. Java
