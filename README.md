@@ -34,8 +34,9 @@
 1. 2022 LG CNS AI Genius Academy 
 2. KDMHS AI Club “FREGIC” 12th
 3. KDMHS App Startup Club "IMPLUDE"
-4. 12th SK Planet STAC+ presidence 
-5. Learning Docker
+4. 2022 STAC+ Future Industry 1st Prize
+5. 12th SK Planet STAC+ presidence 
+6. Learning Docker
 
 ## Donation
 1. BuyMeACoffee
