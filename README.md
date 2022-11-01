@@ -35,7 +35,7 @@
 2. KDMHS App Startup Club "IMPLUDE"
 3. 2022 STAC+ Future Industry 1st Prize
 4. 12th SK Planet STAC+ presidence 
-5. Learning Kubernetese
+5. Learning Kubernetese, MLOps
 
 ## Donation
 1. BuyMeACoffee
