@@ -26,7 +26,7 @@
 ## My Career
 
 1. KDMHS 21th Web Programming
-2. RTG BackEnd & HyperVisor Developer
+2. Koreaserver BackEnd & HyperVisor Developer
 3. KDMHS DIN(DimigoIn IntraNet) Developer
 
 ## My Activities
