@@ -33,8 +33,8 @@
 
 1. KDMHS AI Club “FREGIC” 12th
 2. KDMHS App Startup Club "IMPLUDE"
-3. 2022 STAC+ Future Industry 1st Prize
-4. 12th SK Planet STAC+ presidence 
+3. 2022 STA+C Future Industry 1st Prize
+4. 21-22nd SK Planet AppJam Staff 
 5. Learning Kubernetese, MLOps
 
 ## Donation
