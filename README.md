@@ -1,6 +1,7 @@
 # Hello, Universe!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonwoo0808&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/aeebb3a2-8786-4794-9ad8-bd3812263c99.svg)](https://wakatime.com/@aeebb3a2-8786-4794-9ad8-bd3812263c99)
 
 ## My INFO
 
