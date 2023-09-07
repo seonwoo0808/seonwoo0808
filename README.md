@@ -12,11 +12,11 @@
     2. ML/DL
     3. Minecraft Plugin
     4. DevOps
-4. ⌨️ Language : 
-    1. Python
-    2. Java
-    3. JavaScript(TS)
-    4. Go
+4. ⌨️ Language :
+    1. Go
+    2. Python
+    3. Java
+    4. JavaScript(TS)
     5. C
     6. HTML, CSS (Is it programming lang? 😆)
 
