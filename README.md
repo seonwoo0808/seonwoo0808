@@ -35,9 +35,11 @@
 1. KDMHS AI Club “FREGIC” 12th
 2. KDMHS App Startup Club "IMPLUDE"
 3. 2022 STA+C 미래산업부문 대상
-4. 2022 공개SW 개발자대회 특별상
-5. 21-22nd SK Planet AppJam Staff
-6. Learning Kubernetese, MLOps
+4. 2023 데이터 크리에이터 캠프 대상
+5. 2022 공개SW 개발자대회 특별상
+6. 2023 공개SW 개발자대회 특별상
+7. 21-22nd SK Planet AppJam Staff
+8. Learning Kubernetese, MLOps
 
 ## Donation
 1. BuyMeACoffee
