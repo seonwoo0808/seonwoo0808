@@ -23,7 +23,7 @@
 
 ![PENTAGON's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoo0808&show_icons=true&theme=algolia)
 
-[![PENTAGON's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonwoo0808)](https://wakatime.com/@seonwoo0808)
+[![PENTAGON's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PENTAGON)](https://wakatime.com/@PENTAGON)
 
 
 
