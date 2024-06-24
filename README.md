@@ -22,6 +22,8 @@
 
 
 ![PENTAGON's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoo0808&show_icons=true&theme=algolia)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## My Career
