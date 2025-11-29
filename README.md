@@ -14,11 +14,11 @@
     4. DevOps
 4. ⌨️ Language :
     1. Go
-    2. Python
-    3. Java
-    4. JavaScript(TS)
-    5. C
-    6. HTML, CSS (Is it programming lang? 😆)
+    2. JS/TS
+    3. Python
+    4. Java/Kotlin
+    6. C/C++
+    7. HTML, CSS (Is it programming lang? 😆)
 
 
 ![PENTAGON's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoo0808&show_icons=true&theme=algolia)
@@ -34,6 +34,7 @@
 1. KDMHS 21th Web Programming
 2. Clast Cloud BackEnd & HyperVisor Developer
 3. KDMHS DIN(DimigoIn IntraNet) Developer
+4. Inha University Undergraduated Student
 
 ## My Activities
 
