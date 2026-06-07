@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/aeebb3a2-8786-4794-9ad8-bd3812263c99.svg)](https://wakatime.com/@aeebb3a2-8786-4794-9ad8-bd3812263c99)
 
-- 🔭 I'm currently working on **FLEX IT Co., Ltd.**
+- 🔭 I'm currently working as **Freelancer**
 
 - 📫 How to reach me **me@ptg.kr**
 
