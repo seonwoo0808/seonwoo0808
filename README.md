@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio Link](https://ptg.kr/portfolios)**
 
-- 📄 Know about my experiences **[CV PDF](https://ptg.kr/cv/cv.pdf)**
+- 📄 ~~Know about my experiences **[CV PDF](https://ptg.kr/cv/cv.pdf)**~~
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
